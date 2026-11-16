@@ -35,6 +35,6 @@ An AI-powered BI dashboard for employees, with a 360° complaint view, a unified
 I was responsible for the **methodology, survey analysis, KPI design and complaint-journey mapping** (slides 6–10 of the defense).
 
 ## Files
-- Case study report (PDF)
-- Power BI dashboards
-- Defense presentation
+- [`STC_Case_Study_Report.pdf`](STC_Case_Study_Report.pdf): full case study report
+- [`STC_PowerBI_Dashboards.zip`](STC_PowerBI_Dashboards.zip): Power BI dashboards
+- [`STC_Defense_Presentation.pptx`](STC_Defense_Presentation.pptx): defense presentation
